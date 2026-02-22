@@ -1,4 +1,8 @@
-# Challenge 08: Security Compliance as Code
+# Microsoft Azure Hackathon: Accelerate Development with GitHub Copilot Trainer Guide
+
+<p align="right">Last updated February 22, 2026</p>
+
+## Challenge 08: Security Compliance as Code
 
 ## Introduction
 

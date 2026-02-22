@@ -1,4 +1,8 @@
-# Challenge 04: Integrate 'About Us' Page with GitHub Copilot in React Application
+# Microsoft Azure Hackathon: Accelerate Development with GitHub Copilot Trainer Guide
+
+<p align="right">Last updated February 22, 2026</p>
+
+## Challenge 04: Integrate 'About Us' Page with GitHub Copilot in React Application
 
 ## Introduction
 

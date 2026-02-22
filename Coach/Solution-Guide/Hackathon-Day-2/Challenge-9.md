@@ -1,4 +1,8 @@
-# Challenge 09: Implement Microsoft Defender for Cloud DevOps Security 
+# Microsoft Azure Hackathon: Accelerate Development with GitHub Copilot Trainer Guide
+
+<p align="right">Last updated February 22, 2026</p>
+
+## Challenge 09: Implement Microsoft Defender for Cloud DevOps Security
 
 ## Introduction
 

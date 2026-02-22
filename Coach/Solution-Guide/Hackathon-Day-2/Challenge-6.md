@@ -1,4 +1,8 @@
-# Challenge 06: Resilience Testing using Azure Load Testing & Azure Chaos Studio
+# Microsoft Azure Hackathon: Accelerate Development with GitHub Copilot Trainer Guide
+
+<p align="right">Last updated February 22, 2026</p>
+
+## Challenge 06: Resilience Testing using Azure Load Testing & Azure Chaos Studio
 
 ## Introduction
 

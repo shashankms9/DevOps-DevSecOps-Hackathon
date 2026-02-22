@@ -1,4 +1,8 @@
-# Challenge 05: Implementing Monitoring Solutions for Contoso Traders
+# Microsoft Azure Hackathon: Accelerate Development with GitHub Copilot Trainer Guide
+
+<p align="right">Last updated February 22, 2026</p>
+
+## Challenge 05: Implementing Monitoring Solutions for Contoso Traders
 
 ## Introduction
 
