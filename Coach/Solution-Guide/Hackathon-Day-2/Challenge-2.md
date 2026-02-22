@@ -5,15 +5,6 @@ In this challenge, the user will focus on implementing security features such as
 
 Here's the solution guide, which includes detailed step-by-step instructions required to complete this challenge.
 
-## Table of Contents
-
-- [Accessing GitHub](#accessing-github)
-- [Solution Guide](#solution-guide)
-  - [Task 1: Implement Code Scanning and CodeQL](#task-1-implement-code-scanning-and-codeql)
-- [Success Criteria](#success-criteria)
-- [Additional Resources](#additional-resources)
-- [Troubleshooting](#troubleshooting)
-
 ## Accessing GitHub
 
 1. In a new tab, navigate to the **GitHub login** page by copying and pasting the following URL into the address bar:
@@ -105,12 +96,3 @@ To complete this challenge successfully:
 - Refer to [About GitHub's Advanced Security](https://docs.github.com/en/code-security/getting-started/github-security-features) for reference.
 - Refer to [About Code Scanning with CodeQL](https://docs.github.com/en/code-security/code-scanning/introduction-to-code-scanning/about-code-scanning-with-codeql) for reference.
 - Refer to [Code Scanning with GitHub CodeQL](https://learn.microsoft.com/en-us/training/modules/code-scanning-with-github-codeql/) for reference.
-
-## Troubleshooting
-
-| Symptom | Cause | Fix |
-|---------|-------|-----|
-| **GitHub Advanced Security** option is not visible in repository Settings | The repository must be public for GitHub Advanced Security to be available on free plans. | Go to **Settings** → **Danger Zone** → change repository visibility to **Public**. |
-| CodeQL workflow takes a long time or times out | CodeQL analysis can be resource-intensive for larger codebases. | Wait up to 15 minutes; if it times out, re-run the workflow from the **Actions** tab. |
-| No code scanning alerts appear after workflow completes | Alerts may take a few minutes to populate after the workflow finishes. | Wait a few minutes, then refresh the **Security** → **Code scanning** page. |
-| `Deployment ID` not found | The Deployment ID is in the lab environment details. | Navigate to the **Environment** tab in the lab guide, click **Azure Credentials**, and copy **Deployment ID**. |
