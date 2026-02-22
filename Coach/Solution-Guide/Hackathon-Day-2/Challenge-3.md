@@ -6,15 +6,6 @@ In this challenge, attendee/user will continue to focus on implementing crucial 
 
 This is the solution guide, which provides all the specific, step-by-step directions needed to do the task.
 
-## Table of Contents
-
-- [Solution Guide](#solution-guide)
-  - [Task 1: Configure Dependabot Alerts](#task-1-configure-dependabot-alerts)
-  - [Task 2: Implement Secret Scanning](#task-2-implement-secret-scanning)
-- [Success Criteria](#success-criteria)
-- [Additional Resources](#additional-resources)
-- [Troubleshooting](#troubleshooting)
-
 ## Solution Guide
 
 ### Task 1: Configure Dependabot Alerts
