@@ -15,7 +15,7 @@ Here's the solution guide, which includes detailed step-by-step instructions req
 
 >**Note:** Numbers and ID's values may vary. Kindly ignore values in screenshots and copy values from the **Environment** tab.
 
- ![](../media1/Active-image19new.png)
+ ![Azure Environment tab showing credentials with callouts for Username, Temporary Access Pass, and Deployment ID](https://github.com/user-attachments/assets/4e8a375e-4d7e-4d30-b6f4-881379bc2d0a)
 
 1. To access the Azure portal, within labvm open **Microsoft Edge** and browser to the [Azure Portal](https://portal.azure.com/).
 
@@ -23,7 +23,7 @@ Here's the solution guide, which includes detailed step-by-step instructions req
    
    - **Email/Username:**
 
-     ![](../media1/Active-image1.png)
+     ![Microsoft Sign In page with username field and Next button](https://github.com/user-attachments/assets/cb39b8c1-0d04-463f-8ae8-8f158766486e)
 
       > **Note:** For **Email/Username**, Navigate to **Environment(1)**, click on **Azure credentials** **(2)**, and copy **Username** **(3)**.   
             
