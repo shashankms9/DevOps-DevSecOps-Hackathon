@@ -6,15 +6,6 @@ In this challenge, the user/attendee will integrate Azure's monitoring tools—A
 
 This is the solution guide that contains all of the comprehensive, step-by-step directions needed to finish the challenge.
 
-## Table of Contents
-
-- [Solution Guide](#solution-guide)
-  - [Task 1: Deploy Monitoring Infrastructure](#task-1-deploy-monitoring-infrastructure)
-  - [Task 2: Monitoring using Application Insights](#task-2-monitoring-using-application-insights)
-- [Success Criteria](#success-criteria)
-- [Additional Resources](#additional-resources)
-- [Troubleshooting](#troubleshooting)
-
 ## Solution Guide
 
 ### Task 1: Deploy Monitoring Infrastructure
