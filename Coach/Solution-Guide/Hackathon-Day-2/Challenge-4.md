@@ -6,18 +6,6 @@ Contoso Traders is an e-commerce web application. In this challenge, as a DevOps
 
 This is the solution guide that contains all of the comprehensive, step-by-step directions needed to finish the challenge.
 
-## Table of Contents
-
-- [Accessing the Azure Portal](#accessing-the-azure-portal)
-- [Solution Guide](#solution-guide)
-  - [Exercise 1: Integrate an 'About Us' app component in React using GitHub Copilot](#exercise-1-integrate-an-about-us-app-component-in-react-using-github-copilot)
-  - [Exercise 2: Generate and run Unit Test cases using GitHub Copilot](#exercise-2-generate-and-run-unit-test-cases-using-github-copilot)
-  - [Exercise 3: Code Review and Security Check](#exercise-3-code-review-and-security-check)
-  - [Exercise 4: CI/CD Pipeline Setup and Infrastructure Deployment](#exercise-4-cicd-pipeline-setup-and-infrastructure-deployment)
-- [Success Criteria](#success-criteria)
-- [Additional Resources](#additional-resources)
-- [Troubleshooting](#troubleshooting)
-
 ## Accessing the Azure Portal
 
 1. To access the Azure Portal, open the Edge browser from inside the environment and navigate to the **[Azure Portal](https://portal.azure.com)**.
