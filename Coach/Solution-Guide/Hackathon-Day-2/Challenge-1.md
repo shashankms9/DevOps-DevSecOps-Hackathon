@@ -5,28 +5,16 @@
 ## Challenge 01: Continuous Integration and Deployment for Contoso Traders using GitHub Actions
 
 ## Introduction
+
 This challenge is designed to evaluate the attendee/user skills in creating a robust CI/CD pipeline leveraging GitHub Actions. It aims to assess your capability to not only establish a seamless pipeline but also to guarantee the successful deployment of the application. Through this challenge, the attendee/user will set up a GitHub repository, implement a CI/CD workflow using GitHub Actions, deploy a .NET application to Azure, and make rolling updates to the application.
 
 Here's the solution guide, which includes detailed step-by-step instructions required to complete the challenge.
 
-## Table of Contents
-
-- [Accessing the Azure Portal](#accessing-the-azure-portal)
-- [Accessing GitHub](#accessing-github)
-- [Solution Guide](#solution-guide)
-  - [Task 1: Set up a GitHub repository](#task-1-set-up-a-github-repository)
-  - [Task 2: Deploy Infrastructure](#task-2-deploy-infrastructure)
-  - [Task 3: Set up CI/CD Workflow](#task-3-set-up-cicd-workflow)
-  - [Task 4: Test the application and perform rolling updates](#task-4-test-the-application-and-perform-rolling-updates)
-- [Success Criteria](#success-criteria)
-- [Additional Resources](#additional-resources)
-- [Troubleshooting](#troubleshooting)
-
 ## Accessing the Azure Portal
 
->**Important:** You can find the Username and Password within the environment by navigating to the **Environment** **(1)** tab in the left pane then copy the **Azure Username** **(2)** and **Temporary Access Pass** **(3)**, which will be required for signing into the Azure portal in later steps and you can record the **Deployment Id** **(4)**, which can be used to provide a unique name to the resources during deployment.
+> **Important:** You can find the Username and Password within the environment by navigating to the **Environment** **(1)** tab in the left pane then copy the **Azure Username** **(2)** and **Temporary Access Pass** **(3)**, which will be required for signing into the Azure portal in later steps and you can record the **Deployment Id** **(4)**, which can be used to provide a unique name to the resources during deployment.
 
->**Note:** Numbers and ID's values may vary. Kindly ignore values in screenshots and copy values from the **Environment** tab.
+> **Note:** Numbers and ID's values may vary. Kindly ignore values in screenshots and copy values from the **Environment** tab.
 
  ![Environment tab showing Azure Username, Temporary Access Pass, and Deployment ID](../media1/Active-image19new.png)
 
